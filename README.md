@@ -2,7 +2,7 @@
 
 A modern, clean text editor built with Next.js, React, and TypeScript featuring real-time auto-save, multiple themes, and an intuitive writing experience.
 
-![Text Editor Dashboard - Dark Theme](./images/Screenshot%202025-07-19%20192756.png)
+![Text Editor Dashboard - Dark Theme](https://github.com/roshaanmehar/Simple-Text-Editor/blob/main/2.png)
 
 ## ✨ Features
 
@@ -18,15 +18,15 @@ A modern, clean text editor built with Next.js, React, and TypeScript featuring 
 ## 🖼️ Screenshots
 
 ### Dashboard View
-![Light Theme Dashboard](./images/Screenshot%202025-07-19%20192747.png)
+![Light Theme Dashboard](https://github.com/roshaanmehar/Simple-Text-Editor/blob/main/1.png)
 *Clean dashboard with document management and quick actions*
 
 ### Editor Interface
-![Editor Interface](./images/Screenshot%202025-07-19%20192813.png)
+![Editor Interface](https://github.com/roshaanmehar/Simple-Text-Editor/blob/main/3.png)
 *Distraction-free writing environment with formatting tools*
 
 ### Advanced Features
-![Notion-like Editor](./images/Screenshot%202025-07-19%20192443.png)
+![Notion-like Editor](https://github.com/roshaanmehar/Simple-Text-Editor/blob/main/4.png)
 *Advanced editing features with block-style formatting*
 
 ## 🚀 Tech Stack
