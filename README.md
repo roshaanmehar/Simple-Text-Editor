@@ -141,22 +141,12 @@ Adjust the auto-save frequency by modifying the timeout value in your editor com
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
 
-## 🌐 Deployment
-
-### Deploy to Vercel (Recommended)
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy with zero configuration
-
-### Other Platforms
-The application can be deployed to any platform that supports Next.js applications.
 
 ## 🔒 Data Storage
 
 Currently, documents are stored locally in the browser. For persistent storage across devices, consider integrating:
 
 - **Supabase** for database storage
-- **Vercel KV** for key-value storage
 - **Local file system** for desktop applications
 
 ## 🐛 Troubleshooting
@@ -171,6 +161,8 @@ Currently, documents are stored locally in the browser. For persistent storage a
 ```bash
 rm -rf node_modules package-lock.json
 npm install
+If that still does not work, as a lat resort try
+npm install --legacy-peer-deps OR npm install --force
 ```
 
 **Build Errors**
